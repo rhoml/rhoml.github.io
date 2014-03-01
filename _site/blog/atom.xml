@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Rhommel Lamas</title>
+ <link href="http://rhommell.com/blog/atom.xml" rel="self"/>
+ <link href="http://rhommell.com/"/>
+ <updated>2014-03-01T20:45:42+01:00</updated>
+ <id>http://rhommell.com/</id>
+ <author>
+   <name>Jason Rudolph</name>
+   <email>jason@rhommell.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Rhommell.com on jekyll</title>
+   <link href="http://rhommell.com/blog/2014/03/01/welcome-to-jekyll/"/>
+   <updated>2014-03-01T20:36:52Z</updated>
+   <id>http://rhommell.com/blog/2014/03/01/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
